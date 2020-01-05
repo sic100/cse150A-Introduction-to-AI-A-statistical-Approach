@@ -1,1 +1,1 @@
-# cse150A-Introduction-to-AI-A-statistical-Approach
+# cse151-Introduction-to-AI-A-statistical-Approach
